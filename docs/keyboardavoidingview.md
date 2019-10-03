@@ -14,7 +14,7 @@ import {KeyboardAvoidingView} from 'react-native';
   ... your UI ...
 </KeyboardAvoidingView>;
 ```
-
+This scambag doest works
 ### Example
 
 ![](/react-native/docs/assets/KeyboardAvoidingView/example.gif)
